@@ -1,0 +1,36 @@
+h3{
+    color: red;
+}
+p{
+    color: blue;
+    font-size:larger;
+}
+a{
+    color: white;
+    background-color: red;
+    font-size:larger;
+}
+h2{
+    color: black;
+    background-color: grey;
+}
+body{
+    background-color: black;}
+
+    h1{
+        background-color: white
+    }
+
+.container1{
+    background-color: white;
+}
+
+.container2{
+    background-color: white;
+}
+
+
+
+.container3{
+    background-color: yellow;
+}

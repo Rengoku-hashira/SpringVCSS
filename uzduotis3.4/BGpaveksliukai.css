@@ -1,0 +1,55 @@
+.container1{
+    color: white;
+    background-image:url(mountain1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: justify;
+    width: 70%;
+}
+
+.container2{
+    background-color: rgba(154, 238, 238, 0.702);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    width: 70%;
+    font-size: 100%;
+}
+
+
+.container3{
+    color: white;
+    background-image: url(mountain3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 70%;
+  
+    
+}
+
+p{
+    background-color: rgba(81, 110, 110, 0.323);
+    font-size: 130%;
+    
+    
+
+}
+
+.pirmastop{
+    color: white;
+    background-color: rgba(115, 169, 169, 0.791);
+}
+
+.antrastop{
+    color: white;
+    background-color: rgba(42, 61, 61, 0.458);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.treciastop{
+    color: white;
+    background-color: rgba(220, 228, 228, 0.462);
+}
