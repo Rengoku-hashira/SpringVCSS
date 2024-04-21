@@ -1,0 +1,68 @@
+body{
+    background-color: rgba(128, 128, 128, 0.34);
+
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.container1, .container2, .container3, .container4, .container5, .container6{
+    text-align: left;
+    background-color: white;
+    width:400px;
+    height: 600px;
+    margin: 70px;
+    cursor: pointer;
+    border: none;
+    border-radius: 40px;
+    transition: box-shadow 0.3s;
+    }
+
+p{
+   text-align: left;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin: 30px;
+}
+h1{
+    
+    text-align: left;
+    font-family: initial;
+    margin: 30px;
+}
+
+#my-button{
+    justify-content:left;
+    width: 170px;
+    height: 60px;
+    background-color: rgba(255, 255, 255, 0.984);
+    border-radius: 0%; border-color: blue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 0%;
+    font-size: large;
+    color: blue;
+    text-align: center; 
+    font-style:oblique;
+    margin: 5px 30px;
+}
+
+#my-button:hover{
+    background-color: rgb(2, 2, 93);
+    color: white;
+}
+
+
+.container1:hover, .container2:hover, .container3:hover, .container4:hover, .container5:hover, .container6:hover{
+    box-shadow: 0px 0px 40px rgb(0, 255, 204);
+}
+
+
+img{
+    height: 220px;
+    width: 400px;
+    justify-content: left;
+    border-radius: 40px 40px 0px 0px;
+}
