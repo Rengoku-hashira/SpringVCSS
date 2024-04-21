@@ -1,0 +1,96 @@
+body{
+    background-color: rgba(0, 255, 255, 0.403);
+    font-family: 'Opens Sans', sans-serif;
+}
+
+h1{
+    background-color: rgba(0, 0, 0, 0.2);
+     font-weight: 700;
+     text-transform: uppercase;
+     text-size-adjust: 3em;
+     text-align: center;
+}
+h2{
+    background-color: rgba(0, 0, 0, 0.276);
+    font-weight: 700;
+     text-transform: uppercase;
+     text-size-adjust: 3em;
+     text-align: center;
+  
+}
+
+h3{
+    background-color: rgba(0, 0, 0, 0.254);
+    font-weight: 700;
+     text-transform: uppercase;
+     text-size-adjust: 3em;
+     text-align: center;
+}
+
+table{
+    background-size: cover;
+    background-attachment:fixed ;
+    background-image: url(japan.jpg);
+    text-align: center;
+    font-size: 1.8em;
+    width: 500px;
+    height: 200px;
+    border: 2px solid red;
+}
+td{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid red;
+}
+
+.langeliai{
+    background-color: rgba(0,0,0,0.6);
+}
+
+.id{
+    color: grey
+}
+
+a{
+    color: rgb(255, 17, 227);
+     font-weight: 300;
+     text-decoration: none;
+}
+a:hover{
+    color: rgb(255, 0, 0);
+}
+#pirmas-paragrafas{
+    text-align: right;
+    font-family: Verdana,Geneva,sans-serif;
+    font-size: 1.5em;
+    font-style: italic;
+    
+}
+
+h6{
+   font-size: larger;
+}
+
+li{
+    text-transform: lowercase;
+}
+img{
+    height: 200px;
+}
+
+#pirma-lentele td{
+    vertical-align: top;
+}
+
+.firstclass{
+    list-style-type: square;
+}
+
+.secondclass{
+    list-style-type:upper-roman;
+}
+
+.saraso-elementai{
+    list-style-type: none;
+border-bottom: 2px solid silver;
+
+}

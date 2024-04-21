@@ -1,0 +1,57 @@
+body{
+    background-color: rgba(128, 128, 128, 0.431);
+}
+
+div{
+    background-color: rgba(255, 0, 0, 0.318);
+    max-width: 80%;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pirmas{
+    border: 12px; border-style: solid; color: blue;
+    box-shadow: 5px 5px 15px black;
+}
+
+#antras{
+    padding-left: 5em;
+    padding-right: 5em;
+    border-radius: 150px;
+    box-shadow: 0px 0px 50px rgb(0, 0, 0, 0.5);
+}
+
+#trecias{
+    padding-top: 5em;
+    padding-bottom: 5em;
+    padding-left: 0;
+    padding-right: 0;
+    border-bottom: 10px; border-style: solid; color: blue;
+    border-right: 15px; border-style: dashed; color: blue;
+    /* treciam nesusijungia du border-style stiliai. */ 
+}
+
+#ketvirtas{
+    padding-top: 0;
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-bottom: 1em;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 50px;
+}
+
+#penktas{
+    padding-bottom: 5em;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    border-left: 10px; border-style: dashed; color: blue;
+}
+
+
+
+
+
+
