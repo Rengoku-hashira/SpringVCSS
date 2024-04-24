@@ -1,0 +1,94 @@
+.line {
+    width: 50%; /* Set the width of the lines to span the entire page */
+    border-bottom: 2px solid black; /* Adjust thickness and color of the first line */
+    margin: 3px 0; /* Adjust spacing between lines */
+    margin-left: 40px;
+}
+
+.img1{
+    width: 30%;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 40%;
+    margin-left: 40px;
+}
+.nextline{
+    width: 50%;
+    border-bottom: 8px solid rgb(71, 15, 162);
+    margin-left: 40px;
+}
+
+.container1{
+    border: 12px; color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: white;
+    width: 650px;
+    height: 70px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 50px;
+    background-color: rgba(128, 128, 128, 0.294);
+    margin-left: 40px;
+}
+
+h3{
+     margin-left: 40px;
+}
+
+h2{
+    margin-left: 40px;
+}
+
+.container2{
+    border: 12px; color: rgb(255, 255, 255);
+    text-align: center;
+    width: 500px;
+    height: 150px;
+    padding: 80px 80px 80px 80px;
+    border-radius: 30px;
+    background-color: rgb(47, 13, 100);
+    margin-left: 40px;
+}
+
+.container3{
+color: aqua;
+text-decoration: underline;
+text-decoration-color: aqua;
+}
+
+.container4{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 40px;
+    width: 650px;
+    height: 70px;
+    font-size: larger;
+}
+
+mark{
+background-color: aqua;
+text-decoration: underline;
+
+}
+
+.img2{
+    margin-top: 230px;
+    width: 30%;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 40%;
+    margin-left: 40px;
+}
+
+.background{
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-image: url(northern\ lights.jpg);
+}
+
+.image-overlay{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(255, 166, 0, 0.334);
+
+}

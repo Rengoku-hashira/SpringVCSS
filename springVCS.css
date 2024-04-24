@@ -1,26 +1,12 @@
-h2{
-    text-decoration: underline;
-}
-
-h1{
-    font-size: 50px;
-    background-color: white;
-    font-family:Arial, Helvetica, sans-serif
-}
-
-body{
-    background-color: rgba(128, 128, 128, 0.262);
-}
-.container1{
-    background-color: white;
-}
-
-p{
-    width: 500px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-h3{
-  font-size: 40px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
+.eile {
+    display: flex;
+    justify-content: space-around;
+    background: darkblue;
+  }
+  
+  .stulpelis {
+    padding: 50px;
+    margin: 100px;
+    background: lightblue;
+  }
+  
