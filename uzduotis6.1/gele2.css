@@ -1,0 +1,130 @@
+body{
+    display: flex;
+    background-color: rgba(183, 241, 10, 0.219);
+}
+
+
+
+.container1, .container2, .container3, .container4{
+    text-align: center;
+    background-color: white;
+    width: 400px;
+    height: 640px;
+    margin: 70px;
+    cursor: pointer;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    transition: box-shadow 0.2s;
+    box-shadow: 0px 0px 20px rgba(120, 119, 119, 0.483);
+    
+    
+    }
+
+    img{
+        height: 300px;
+        width: 400px;
+        justify-content: center;
+        border-radius: 20px 20px 0px 0px;
+    }
+
+
+    #my-button{
+        justify-content:right;
+        width: 130px;
+        height: 60px;
+        background-color: rgba(255, 255, 255, 0.984);
+        border-radius: 0%; border-color: rgb(22, 139, 55);
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        padding: 0%;
+        font-size: large;
+        color: rgb(22, 139, 55);
+        text-align: center; 
+        font-style:oblique;
+        margin: -70px 240px;
+        margin-bottom: 80px;
+    }
+
+    #my-button:hover{
+        background-color: rgb(22, 139, 55);
+        color: white;
+    }
+
+    .container1:hover, .container2:hover, .container3:hover, .container4:hover{
+        border-color: rgb(17, 137, 53);
+    }
+
+    h1{
+       display: flex;
+       margin-left: 30px;
+       margin-bottom: 40px;
+    }
+
+    p{
+        display: flex;
+        margin-left: 30px;
+        font-size: larger;
+     color: rgb(101, 101, 101);
+
+    }
+
+
+    .color-buttons input[type="radio"] {
+        display: none;
+    }
+    
+    .color-circle {
+        display: inline-block;
+        width: 15px;
+        height: 15px;
+        border-radius: 50%; 
+        margin-right: 10px;
+        cursor: pointer;
+        border: 2px solid transparent;
+    }
+    
+    .red {
+        background-color: rgb(0, 0, 0);
+    }
+    
+    .green {
+        background-color: rgb(229, 131, 104);
+    }
+    
+    .blue {
+        background-color: rgb(165, 165, 167);
+    }
+    
+.yellow{
+    background-color: rgb(212, 164, 101);
+}
+
+    .color-circle:hover {
+        border-color:rgb(22, 139, 55);
+    }
+    
+    .color-buttons input[type="radio"]:checked + .color-circle {
+        border-color: #999;
+    }
+.color-buttons{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    width: 150px;
+    margin-top: 70px;
+    margin-left: 15px;
+}
+
+.Vspalva{
+    color:  rgb(22, 139, 55);
+}
+
+
+@media only screen and (max-width: 430px) {
+    body{
+        display: flex;
+        flex-direction: column;
+
+    }
+}
+
+
+

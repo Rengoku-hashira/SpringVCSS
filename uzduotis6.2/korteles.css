@@ -1,0 +1,43 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container1, .container2{
+    text-align: center;
+    background-color: rgba(225, 196, 128, 0.52);
+    width: 350px;
+    height: 500px;
+    margin: 70px;
+    cursor: pointer;
+    border: 2px solid transparent;
+    
+    position: relative; 
+    display: inline-block;
+    border-color: white;
+
+}
+img{
+    height: 250px;
+    width: 350px;
+    justify-content: center;
+}
+
+p{
+    color: rgb(0, 0, 0);
+}
+
+.overlay{
+    position: absolute;
+    top: 46%; 
+    left: 26%; 
+    transform: translate(-50%, -50%);
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+.overlay p {
+    margin: 1px;
+}
+

@@ -1,0 +1,40 @@
+body{
+    background-image: url(icecream.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+
+.pradzia{
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    height: 100px;
+}
+
+
+.main{
+  background-color: black;
+    height: 800px;
+  font-size: larger;
+   color: white;
+   margin: 250px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.kortele1, .kortele2, .kortele3{
+    background-color: rgb(176, 122, 52);
+    border: solid;
+   border-radius: 50px;
+   width: 350px;
+   display: flex;
+   justify-content: space-around;
+   margin: 100px;
+   align-items: end;
+   flex-direction: column;
+}

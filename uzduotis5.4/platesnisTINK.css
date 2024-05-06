@@ -1,0 +1,158 @@
+.nuorodos{
+    display: flex;
+    grid-template-columns: repeat(5, 1fr);
+    grid-auto-flow: column;
+    padding: 850px;
+    gap: 20px;
+    text-decoration: none;
+}
+
+.pradzia{
+    background-color: rgb(0, 0, 0);
+    height: 80px;
+    display: flex; 
+    flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+gap: 850px;
+padding-left: 60px;
+font-size: large;
+color: white;
+}
+
+a{
+    color: white;
+}
+
+
+.Izanga{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(100, 179, 100);
+    height: 550px;
+    flex-direction: column;
+}
+.buttons .migtukas1{
+    /* Styles for Button 1 */
+    background-color: rgb(59, 58, 58);
+    color: white;
+    border: 3px solid black;
+    padding: 10px 25px;
+    border-radius: 0px;
+    font-size: large;
+}
+
+
+.buttons .migtukas2{
+    /* Styles for Button 1 */
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(0, 0, 0);
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px 25px;
+    border-radius: 0px;
+    font-size: large;
+    
+}
+
+.aprasymas{
+    display: flex;
+    gap: 80px;
+    background-color: aqua;
+    font-size: large;
+}
+
+
+.Kcontrole{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    background-color: rgb(224, 224, 174);
+}
+
+
+
+.kortele1{
+    background-color: rgb(176, 122, 52);
+    width: 500px;
+    height: 500px;
+    margin: 60px;
+    border: none;
+    box-shadow: 0px 0px 60px rgb(107, 105, 105);
+    font-size: 30px;
+    padding-top: 20px;
+    justify-content: center;
+    align-items: center;
+     padding-left: 20px;
+     display: grid;
+}
+
+
+
+
+.kortele2{
+    background-color :rgb(176, 122, 52);
+    width: 500px;
+    height: 500px;
+    margin: 60px;
+    border: none;
+    box-shadow: 0px 0px 60px rgb(107, 105, 105);
+    font-size: 30px;
+    padding-top: 20px;
+    justify-content: center;
+    align-items: center;
+     padding-left: 20px;
+     display: grid;
+
+}
+
+.kortele3{
+    background-color: rgb(176, 122, 52);
+    width: 500px;
+    height: 500px;
+    margin: 60px;
+    border: none;
+    box-shadow: 0px 0px 60px rgb(107, 105, 105);
+    font-size: 30px;
+    padding-top: 20px;
+    justify-content: center;
+    align-items: center;
+     padding-left: 20px;
+     display: grid;
+
+}
+
+
+.pabaiga{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    font-size: large;
+    color: white;
+    height: 350px;
+    gap: 350px;
+    
+}
+
+
+.sarasiukai{
+    display: flex;
+    flex-direction: column;
+    color: aqua;
+    margin-top: 50px;
+    
+}
+
+.sarasiukai li::marker{
+    color: white;
+}
+
+.sarasiukai2{
+    display: flex;
+    flex-direction: column;
+    color: aqua;
+    margin-top: 50px;
+}
+
+.sarasiukai2 li::marker{
+    color: white;
+}
