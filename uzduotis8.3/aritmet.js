@@ -75,12 +75,12 @@
 //console.log("d:", d);
 
 // 3 uzduotis
-let a = 100;
-let b = 50;
+// let a = 100;
+// let b = 50;
 
-console.log(a + b);
-console.log(a - b);
-console.log((a + b) / (a - b));
+// console.log(a + b);
+// console.log(a - b);
+// console.log((a + b) / (a - b));
 
 
 // 2 uzduotis
@@ -94,42 +94,42 @@ console.log((a + b) / (a - b));
 
 
 // 5 uzduotis
-let v = 4;
-let n = 5;
+// let v = 4;
+// let n = 5;
 
-console.log(v + n);
+// console.log(v + n);
 
-
-// 6 uzduotis
-let o = -1;
-let z = 4;
-let m = 6;
-
-console.log(o + z * 6);
 
 // 6 uzduotis
-let s = 35;
-let l = 5;
-let t = 7;
+// let o = -1;
+// let z = 4;
+// let m = 6;
 
-console.log((s + l) % t);
-
-// 6 uzduotis
-let y = 14;
-let f = -4;
-let h = 6;
-let k = 12;
-
-console.log(y + f * h / k);
+// console.log(o + z * 6);
 
 // 6 uzduotis
-let d = 2;
-let u = 15;
-let g = 6;
-let q = 1;
-let w = 7;
-let p = 2;
+// let s = 35;
+// let l = 5;
+// let t = 7;
 
-console.log(d + u / g * q - w % p);
+// console.log((s + l) % t);
+
+// 6 uzduotis
+// let y = 14;
+// let f = -4;
+// let h = 6;
+// let k = 12;
+
+// console.log(y + f * h / k);
+
+// 6 uzduotis
+// let d = 2;
+// let u = 15;
+// let g = 6;
+// let q = 1;
+// let w = 7;
+// let p = 2;
+
+// console.log(d + u / g * q - w % p);
 
 
