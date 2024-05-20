@@ -74,13 +74,13 @@
 //     console.log('nesuveike');
 // }
 
-if (5 + 3 > 0 && 100 < 100) {
-    console.log('suveike');
-}
+// if (5 + 3 > 0 && 100 < 100) {
+//     console.log('suveike');
+// }
 
-else {
-    console.log('nesuveike');
-}
+// else {
+//     console.log('nesuveike');
+// }
 
 
 
