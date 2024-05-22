@@ -106,27 +106,40 @@
 // }
 
 
-for (let i = 1; i < 5; i++) {
-    if (i == 2) {
-        console.log('praleidziam nr 2');
-        continue; // nebevykdo kas zemiau / baigia iteracija // grizta i pradzia 
-    }
-    console.log(i);
-}
+// for (let i = 1; i < 5; i++) {
+//     if (i == 2) {
+//         console.log('praleidziam nr 2');
+//         continue; // nebevykdo kas zemiau / baigia iteracija // grizta i pradzia 
+//     }
+//     console.log(i);
+// }
 
 
+//1 uzduotis
+// for (let i = 0; i <= 10; i++) {
+//     console.log(i);
+// }
+
+//2 uzduotis
+// for (let j = 2; j <= 15; j +=2) {
+//     console.log(j);
+// }
 
 
+//3 uzduotis
+
+// for (let a = 1; a <= 20; a +=3) {
+//     console.log(a);
+// }
 
 
-
-
-
-
-
-
-
-
+//uzduotis 4(nebaigta)
+// for (let g = 1; g <= 20; g++) {
+//     if (g % 4 == 0) {
+//         console.log('dalinasi is 4');
+//     }
+//     console.log(g);
+// }
 
 
 
