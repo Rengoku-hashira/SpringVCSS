@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Downloads/php-mysql-1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SpringVCS"
+	}
+}
