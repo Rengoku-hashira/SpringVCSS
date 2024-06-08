@@ -1,4 +1,18 @@
+// FIBONACHI
 
+// let pirmasSkaicius = 0;  
+// let antrasSkaicius = 1;  
+// let fibSuma = pirmasSkaicius + antrasSkaicius; 
+// //console.log(pirmasSkaicius);
+// console.log(antrasSkaicius);
+// console.log(fibSuma);
+// let n = 10;
+// for (let i = 2; i < n; i++) {
+//     pirmasSkaicius = antrasSkaicius;
+//     antrasSkaicius = fibSuma;
+//     fibSuma = pirmasSkaicius + antrasSkaicius;
+//     console.log(fibSuma);
+// }
 
 
 
